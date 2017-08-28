@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 671a5390c16a6468c9b73f7d09e75868
+timeCreated: 1474124378
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Slimbo Medium | boodas.de
+  fontNames:
+  - Slimbo Medium | boodas.de
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3f03a582fb2d54a5d8c16f1a440c8175, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

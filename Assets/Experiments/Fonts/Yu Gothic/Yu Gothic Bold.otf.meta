@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 09c721a77fe7743b48942fc20d621122
+timeCreated: 1474219179
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: YuGothic
+  fontNames:
+  - YuGothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ac6c6a327093846719d7ef03c7e24a04, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

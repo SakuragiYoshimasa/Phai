@@ -1,0 +1,12 @@
+﻿#pragma kernel CSMain1
+
+RWStructuredBuffer<int> buffer1;
+
+[numthreads(4,1,1)]
+
+void CSMain1(int3 threadID : SV_GroupThreadID)
+{
+    buffer1[threadID.x] = threadID.x;
+    
+}
+
